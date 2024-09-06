@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 83 hrs 13 mins
+Total Time: 87 hrs 3 mins
 
-C             63 hrs 27 mins  ███████████████████░░░░░░   76.21 %
-Python        8 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Java          5 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Makefile      2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-CMake         1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+C             66 hrs 15 mins  ███████████████████░░░░░░   76.07 %
+Python        8 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Java          6 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Makefile      2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+CMake         1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->

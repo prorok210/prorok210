@@ -13,6 +13,8 @@ JavaScript    11 hrs 16 mins  █░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Hi there 👋
+- 🌱 I'm currently learning Go for web development.
+- 🔭 I'm currently working on a service for generating images 
 
 <!--
 **prorok210/prorok210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

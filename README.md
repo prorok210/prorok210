@@ -13,7 +13,6 @@ HTML                       13 hrs 39 mins  ▓░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Hi there 👋
-- 🌱 I'm currently learning Go for web development.
 
 <!--
 **prorok210/prorok210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
